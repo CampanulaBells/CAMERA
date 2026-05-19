@@ -54,3 +54,19 @@ python run.py --dataset_name amazon --epochs 15 --alpha 0.1 --beta 1.0 --lr 5e-5
 ```
 python run.py --dataset_name yelpchi --epochs 450 --alpha 0.1 --beta 10.0 --lr 1e-3
 ```
+
+
+
+### Citation
+
+If you find our repository useful for your research, please consider citing our paper:
+
+```
+@inproceedings{pan2026CAMERA,
+  title={CAMERA: Adapting to Semantic Camouflage in Unsupervised Text-Attributed Graph Fraud Detection},
+  author={Pan, Junjun and Liu, Yixin and Zheng, Yu and Chi, Lianhua and Liew, Alan Wee-Chung and Pan, Shirui},
+  booktitle={International Joint Conference on Artificial Intelligence},
+  year={2026}
+}
+```
+
