@@ -1,6 +1,9 @@
 # CAMERA: Adapting to Semantic Camouflage in Unsupervised Text Attributed Graph Fraud Detection
 
-This repository contains the official implementation of CAMERA, an unsupervised graph fraud detection framework designed to adapt to semantic camouflage in text attributed graphs. CAMERA employs a mixture of experts architecture to disentangle structural, statistical, and semantic signals, enabling robust anomaly detection under distribution shift without relying on labeled data.
+
+This is the official implementation of the following paper: CAMERA: Adapting to Semantic Camouflage in Unsupervised Text Attributed Graph Fraud Detection, Accepted by IJCAI 2026
+
+CAMERA employs a mixture of expert architectures to disentangle structural, statistical, and semantic signals, enabling robust anomaly detection under distribution shift without relying on labeled data.
 
 ## Environment
 
